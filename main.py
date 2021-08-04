@@ -1,1 +1,0 @@
-print(open('train.txt').read())
